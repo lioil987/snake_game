@@ -4,7 +4,7 @@
 
 This Python script implements a classic Snake game using the Pygame library. The player controls a snake that must navigate the game area, collect prizes, and avoid collisions with itself and the boundaries.
 
-![Snake Game Preview](preview/Screenshot.png)
+![Snake Game Preview](preview/demo.gif)
 
 ## Features
 
